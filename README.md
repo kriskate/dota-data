@@ -12,4 +12,4 @@ Data extracted from the Dota2 game files (provided by Dotabuff), on Dota2.com, a
 - Tips
 
 ## NOTES
-- Some of the abilities (like Monkey King's Primal Spring do not have descriptions in *dota API - hero abilities*. 
+- Some hero abilities (like monkey_king_primal_spring_early) do not have descriptions in the Dota2 game files, so they're skipped. 
