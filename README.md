@@ -17,3 +17,4 @@ Data extracted from the Dota2 game files (provided by Dotabuff), on Dota2.com, a
 ## LEGAL
 - The contents of files in extracted directories are © [Valve Corporation](https://www.valvesoftware.com/).
 - Dota2 game files and images provided by [Elo](https://elo.io/), through [Dotabuff](https://github.com/dotabuff/d2vpkr).
+- Patch dates provided by [Opendota](https://opendota.com/), through [patch.json](https://github.com/odota/dotaconstants/blob/master/json/patch.json)
