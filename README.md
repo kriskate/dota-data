@@ -13,3 +13,7 @@ Data extracted from the Dota2 game files (provided by Dotabuff), on Dota2.com, a
 
 ## NOTES
 - Some hero abilities (like monkey_king_primal_spring_early) do not have descriptions in the Dota2 game files, so they're skipped. 
+
+## LEGAL
+- The contents of files in extracted directories are © [Valve Corporation](https://www.valvesoftware.com/).
+- Dota2 game files and images provided by [Elo](https://elo.io/), through [Dotabuff](https://github.com/dotabuff/d2vpkr).
