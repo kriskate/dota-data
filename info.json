@@ -1,1 +1,8 @@
-{"currentDotaVersion":"7.19c","currentDotaVersionDate":"2018-10-02T19:39:58.070Z","currentWikiVersion":30,"currentWikiVersionDate":"2018-10-02T19:39:54.478Z","app_version":"3.2.2"}
+{
+  "appVersion": "3.2.2",
+  "dotaVersion": "7.19c",
+  "dotaVersionDate": "2018-10-02_22-39-58",
+  "wikiVersion": 30,
+  "wikiVersionDate": "2018-10-02_22-39-54",
+  "wikiVersionFolder": "2018-10-02_22-39-54_30"
+}
