@@ -1,3 +1,7 @@
+> Initially, each dataset had a new folder, whos name included the date and version.
+
+> The new dataset is now stored in the same folder ```data``` and its info can be founs in its root.
+
 # dota-data
 json data for dota heroes and items
 
